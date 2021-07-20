@@ -105,7 +105,7 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 ## URL
 このスライドには、以下からアクセスしていただけます。  
-https://hogehoge.jp
+https://priceless-allen-c128b8.netlify.app
 
 ## 使用ツール
 このスライドは、Slidevを使って作成しています。  
