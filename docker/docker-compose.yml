@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  centos:
+    image: centos:7
+    tty: true
+  ubuntu:
+    image: ubuntu:20.04
+    tty: true
+  suse:
+    image: opensuse/leap:15
+    tty: true
